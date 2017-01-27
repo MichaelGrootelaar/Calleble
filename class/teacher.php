@@ -2,12 +2,12 @@
   class Teacher {
     public function edit()
     {
-        echo 'Edit teacher';
+      echo 'Edit teacher';
     }
 
     public function show()
     {
-        echo 'Show teacher';
+      echo 'Show teacher';
     }
   }
 ?>
